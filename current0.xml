@@ -1,0 +1,97 @@
+<!-- Balu TM MTS  OurMenuAd_Chartboost_Admob_popup  use  menuary 1, ingameary 2, levelcompleteary 3, levelfailary 4 -->
+<gameconfigs>
+<mpad  need="true" img1="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main_portrait.jpg" img2="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg" img3="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg"
+img4="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg"
+img5="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg"
+linkto="market://details?id=offroad.monster.truck&amp;referrer=mts_menuad" 
+linkto1="market://details?id=offroad.monster.truck&amp;referrer=mts_menuad" 
+linkto2="market://details?id=offroad.monster.truck&amp;referrer=mts_menuad" 
+linkto3="market://details?id=offroad.monster.truck&amp;referrer=mts_menuad"
+linktomgto="market://details?id=com.integer.traindriversimulatorpro"/>
+
+<mpadexit need="true" img1="https://s3-us-west-2.amazonaws.com/oldsetupicons/all_exit/main_all.jpg" img2="https://s3-us-west-2.amazonaws.com/oldsetupicons/all_exit/main_exit.jpg" linkto="market://details?id=com.integer.pixelboymultiplayer&amp;referrer=timuz_menuadexit"/>
+
+<promo need="false"    ratingpop="false"  startbutton="false"  popupimg="https://s3.amazonaws.com/multitouchstudio/ads/popupad.jpg" linkto="market://details?id=com.igames.motoracing3d&amp;referrer=mts_mgpopup"/>
+
+<mg1 linkto="https://s3.amazonaws.com/multitouchstudio/html/index_all.html" exitlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/html/exit.html"/>
+<mg2 linkto="https://s3.amazonaws.com/multitouchstudio/html/index.html" exitlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/html/exit.html"/>
+
+
+<newgamepopup newgameiconlinkto="https://multitouchstudio.s3.amazonaws.com/ads/newgame.png" newgamelinkto="market://details?id=com.mtsgames.farmingsimulator3d"/>
+<menupopup lefticonlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game1.jpg" leftlinkto="market://details?id=pro.drift.car.racing.limitless" righticonlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game2.jpg" rightlinkto="market://details?id=com.bigtimegames.royalrumble"
+thirdiconlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game5.jpg" thirdlinkto="market://details?id=com.bigtimegames.wrestlingcagerevolution"
+lefticon1linkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game3.jpg" left1linkto="market://details?id=com.advance.car.parking.car.driver.simulator" righticon1linkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game4.jpg" right1linkto="market://details?id=com.bigtimegames.wrestling"
+thirdicon1linkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game6.jpg" third1linkto="market://details?id=com.bigtimegames.wcc"
+naimg1="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg" 
+naimg2="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg" 
+naimg3="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg"
+naimg4="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg"
+nalinkto1="market://details?id=offroad.monster.truck" 
+nalinkto2="market://details?id=offroad.monster.truck" 
+nalinkto3="market://details?id=offroad.monster.truck"
+nalinkto4="market://details?id=offroad.monster.truck"/>
+
+<levelcompletepopup lefticonlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game1.jpg" leftlinkto="market://details?id=pro.drift.car.racing.limitless" righticonlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game2.jpg" rightlinkto="market://details?id=com.bigtimegames.royalrumble"
+thirdiconlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game5.jpg" thirdlinkto="market://details?id=com.bigtimegames.wrestlingcagerevolution"
+lefticon1linkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game3.jpg" left1linkto="market://details?id=com.advance.car.parking.car.driver.simulator" righticon1linkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game4.jpg" right1linkto="market://details?id=com.bigtimegames.wrestling"
+thirdicon1linkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game6.jpg" third1linkto="market://details?id=com.bigtimegames.wcc"
+naimg1="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg" 
+naimg2="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg" 
+naimg3="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg"
+naimg4="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg"
+nalinkto1="market://details?id=offroad.monster.truck" 
+nalinkto2="market://details?id=offroad.monster.truck" 
+nalinkto3="market://details?id=offroad.monster.truck"
+nalinkto4="market://details?id=offroad.monster.truck"/>
+
+<levelfailpopup lefticonlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game1.jpg" leftlinkto="market://details?id=pro.drift.car.racing.limitless" righticonlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game2.jpg" rightlinkto="market://details?id=com.bigtimegames.royalrumble"
+thirdiconlinkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game5.jpg" thirdlinkto="market://details?id=com.bigtimegames.wrestlingcagerevolution"
+lefticon1linkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game3.jpg" left1linkto="market://details?id=com.advance.car.parking.car.driver.simulator" righticon1linkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game4.jpg" right1linkto="market://details?id=com.bigtimegames.wrestling"
+thirdicon1linkto="https://s3.ap-south-1.amazonaws.com/puffygames/24games/popups/0currentgame/game6.jpg" third1linkto="market://details?id=com.bigtimegames.wcc"
+naimg1="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg" 
+naimg2="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg" 
+naimg3="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg"
+naimg4="https://s3.ap-south-1.amazonaws.com/puffygames/24games/menuads/0currentgame/main.jpg"
+nalinkto1="market://details?id=offroad.monster.truck" 
+nalinkto2="market://details?id=offroad.monster.truck" 
+nalinkto3="market://details?id=offroad.monster.truck"
+nalinkto4="market://details?id=offroad.monster.truck"/>
+
+<publisher name="Timuz+Games"/>
+<MoreGames need="true" url="com.mtsfreegames.drparkingmania"/>
+<Promo code="PROMO2015"/>
+<AdDelay seconds="30"/>
+
+<g1 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g2 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g3 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g4 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g5 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g6 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g7 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g8 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g9 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g10 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g11 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g12 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g13 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g14 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g15 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g16 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g17 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g18 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g19 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g20 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g21 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g22 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g23 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g24 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g25 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g26 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g27 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g28 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g29 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<g30 st="1_0_34_0" popupst="134" popupstLeft="134" popupstRight="134" lcDelay="1" lfDelay="1" adtoaddelay="30" exithtml="" mpad="" mpadlinkto=""/>
+<ratepopup levelNums="1_3_5" ratemsg="Please Rate - Game Name" ratecoins="0"/>
+<!-- 110 games-->
+</gameconfigs>

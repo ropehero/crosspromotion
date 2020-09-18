@@ -1,12 +1,12 @@
 <!-- Balu TM MTS  OurMenuAd_Chartboost_Admob_popup  use  menuary 1, ingameary 2, levelcompleteary 3, levelfailary 4 -->
 <gameconfigs>
-<mpad  need="true" img1="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main_portrait.jpg" img2="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg" img3="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg"
-img4="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg"
-img5="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg"
-linkto="market://details?id=com.mega.ramp.megaramp&amp;referrer=mts_menuad" 
-linkto1="market://details?id=com.mega.ramp.megaramp&amp;referrer=mts_menuad" 
-linkto2="market://details?id=com.mega.ramp.megaramp&amp;referrer=mts_menuad" 
-linkto3="market://details?id=com.mega.ramp.megaramp&amp;referrer=mts_menuad"
+<mpad  need="true" img1="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main_portrait1.jpg" img2="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg" img3="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg"
+img4="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg"
+img5="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg"
+linkto="market://details?id=com.dinosaur.games.dinosaurgames.games&amp;referrer=mts_menuad" 
+linkto1="market://details?id=com.dinosaur.games.dinosaurgames.games&amp;referrer=mts_menuad" 
+linkto2="market://details?id=com.dinosaur.games.dinosaurgames.games&amp;referrer=mts_menuad" 
+linkto3="market://details?id=com.dinosaur.games.dinosaurgames.games&amp;referrer=mts_menuad"
 linktomgto="market://details?id=com.integer.traindriversimulatorpro"/>
 
 <mpadexit need="true" img1="https://s3-us-west-2.amazonaws.com/oldsetupicons/all_exit/main_all.jpg" img2="https://s3-us-west-2.amazonaws.com/oldsetupicons/all_exit/main_exit.jpg" linkto="market://details?id=com.integer.pixelboymultiplayer&amp;referrer=timuz_menuadexit"/>
@@ -22,40 +22,40 @@ linktomgto="market://details?id=com.integer.traindriversimulatorpro"/>
 thirdiconlinkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" thirdlinkto="market://details?id=com.mega.ramp.megaramp"
 lefticon1linkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" left1linkto="market://details?id=com.mega.ramp.megaramp" righticon1linkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" right1linkto="market://details?id=com.mega.ramp.megaramp"
 thirdicon1linkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" third1linkto="market://details?id=com.mega.ramp.megaramp"
-naimg1="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg" 
-naimg2="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg" 
-naimg3="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg"
-naimg4="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg"
-nalinkto1="market://details?id=com.mega.ramp.megaramp" 
-nalinkto2="market://details?id=com.mega.ramp.megaramp" 
-nalinkto3="market://details?id=com.mega.ramp.megaramp"
-nalinkto4="market://details?id=com.mega.ramp.megaramp"/>
+naimg1="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg" 
+naimg2="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg" 
+naimg3="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg"
+naimg4="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg"
+nalinkto1="market://details?id=com.dinosaur.games.dinosaurgames.games" 
+nalinkto2="market://details?id=com.dinosaur.games.dinosaurgames.games" 
+nalinkto3="market://details?id=com.dinosaur.games.dinosaurgames.games"
+nalinkto4="market://details?id=com.dinosaur.games.dinosaurgames.games"/>
 
 <levelcompletepopup lefticonlinkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" leftlinkto="market://details?id=com.mega.ramp.megaramp" righticonlinkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" rightlinkto="market://details?id=com.mega.ramp.megaramp"
 thirdiconlinkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" thirdlinkto="market://details?id=com.mega.ramp.megaramp"
 lefticon1linkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" left1linkto="market://details?id=com.mega.ramp.megaramp" righticon1linkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" right1linkto="market://details?id=com.mega.ramp.megaramp"
 thirdicon1linkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" third1linkto="market://details?id=com.mega.ramp.megaramp"
-naimg1="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg" 
-naimg2="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg" 
-naimg3="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg"
-naimg4="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg"
-nalinkto1="market://details?id=com.mega.ramp.megaramp" 
-nalinkto2="market://details?id=com.mega.ramp.megaramp" 
-nalinkto3="market://details?id=com.mega.ramp.megaramp"
-nalinkto4="market://details?id=com.mega.ramp.megaramp"/>
+naimg1="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg" 
+naimg2="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg" 
+naimg3="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg"
+naimg4="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg"
+nalinkto1="market://details?id=com.dinosaur.games.dinosaurgames.games" 
+nalinkto2="market://details?id=com.dinosaur.games.dinosaurgames.games" 
+nalinkto3="market://details?id=com.dinosaur.games.dinosaurgames.games"
+nalinkto4="market://details?id=com.dinosaur.games.dinosaurgames.games"/>
 
 <levelfailpopup lefticonlinkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" leftlinkto="market://details?id=com.mega.ramp.megaramp" righticonlinkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" rightlinkto="market://details?id=com.mega.ramp.megaramp"
 thirdiconlinkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" thirdlinkto="market://details?id=com.mega.ramp.megaramp"
 lefticon1linkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" left1linkto="market://details?id=com.mega.ramp.megaramp" righticon1linkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" right1linkto="market://details?id=com.mega.ramp.megaramp"
 thirdicon1linkto="https://raw.githubusercontent.com/ropehero/crosspromotion/master/game.jpg" third1linkto="market://details?id=com.mega.ramp.megaramp"
-naimg1="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg" 
-naimg2="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg" 
-naimg3="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg"
-naimg4="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main.jpg"
-nalinkto1="market://details?id=com.mega.ramp.megaramp" 
-nalinkto2="market://details?id=com.mega.ramp.megaramp" 
-nalinkto3="market://details?id=com.mega.ramp.megaramp"
-nalinkto4="market://details?id=com.mega.ramp.megaramp"/>
+naimg1="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg" 
+naimg2="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg" 
+naimg3="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg"
+naimg4="https://raw.githubusercontent.com/ropehero/crosspromotion/master/main1.jpg"
+nalinkto1="market://details?id=com.dinosaur.games.dinosaurgames.games" 
+nalinkto2="market://details?id=com.dinosaur.games.dinosaurgames.games" 
+nalinkto3="market://details?id=com.dinosaur.games.dinosaurgames.games"
+nalinkto4="market://details?id=com.dinosaur.games.dinosaurgames.games"/>
 
 <publisher name="Timuz+Games"/>
 <MoreGames need="true" url="com.mtsfreegames.drparkingmania"/>
